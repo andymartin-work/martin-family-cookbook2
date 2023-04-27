@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
-authorInTitle: true
+title: The Martin Family Cookbook
+authorInTitle: false
 metaTitle: Martin Family Cookbook
 highlightedTag: Favourite ⭐
 highlightedTitle: Some of our favourite recipes
