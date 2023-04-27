@@ -1,7 +1,7 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
+    "name": "Martin Family Cookbook",
+    "metaDescription": "The online cookbook of the Martin Family",
+    "author": "The Martin Family",
     "primaryColor": "#ffdb70",
     "secondaryColor": "#32816e",
     "searchLabel": "Find recipes by name, tag or ingredients",
