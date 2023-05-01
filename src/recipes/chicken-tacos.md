@@ -10,48 +10,25 @@ servings: 5
 sourceLabel: Gluten Free On A Shoestring
 sourceURL: https://glutenfreeonashoestring.com/gluten-free-tacos-with-chicken/
 ingredients:
-  - " 1 teaspoon chipotle chili pepper or more to taste"
+  - 1 teaspoon chipotle chili pepper or more to taste
   - 1 teaspoon kosher salt
+  - 1 teaspoon smoked Spanish paprika
+  - ½ teaspoon onion powder
+  - 1 teaspoon garlic powder
+  - 1 teaspoon ground cumin
+  - ½ teaspoon dried oregano
+  - 2 tablespoons (18 g) cornstarch
+  - 1 ¼ pounds skinless boneless chicken breast
+  - "2 tablespoons (28 g) grapeseed oil (alternatives are: canola, vegetable,
+    peanut oils)"
+  - 2 tablespoons mayonnaise
+  - 1 teaspoon white wine vinegar
+  - ⅛ teaspoon kosher salt
+  - 4 ounces shredded red cabbage
+  - ½ cup (128 g) sour cream
+  - 1 tablespoon Sriracha
+  - 15 gluten free corn tortillas
 ---
-### Ingredients
-
-#### For the taco seasoning
-
-* 1 teaspoon chipotle chili pepper or more to taste
-* 1 teaspoon kosher salt
-* 1 teaspoon smoked Spanish paprika
-* ½ teaspoon onion powder
-* 1 teaspoon garlic powder
-* 1 teaspoon ground cumin
-* ½ teaspoon dried oregano
-* 2 tablespoons (18 g) cornstarch
-
-#### For the chicken
-
-* 1 ¼ pounds skinless boneless chicken breast
-* 2 tablespoons (28 g) grapeseed oil (alternatives are: canola, vegetable, peanut oils)
-* 1 tablespoon [extra gluten free taco seasoning](https://glutenfreeonashoestring.com/gluten-free-taco-seasoning/) optional
-
-#### For the cole slaw
-
-* 2 tablespoons mayonnaise
-* 1 teaspoon white wine vinegar
-* ⅛ teaspoon kosher salt
-* 4 ounces shredded red cabbage
-
-#### For the spicy sour cream
-
-* ½ cup (128 g) sour cream
-* 1 tablespoon Sriracha
-
-#### For serving
-
-* 15 small [gluten free corn tortillas](https://glutenfreeonashoestring.com/the-best-corn-tortillas/)
-* 1 large tomato chopped and seeded (optional)
-* 2 ounces Cotija cheese crumbled (optional)
-* Sriracha for drizzling (optional)
-* 1 lime sliced into wedges (optional)
-
 ### Instructions
 
 #### For the taco seasoning
