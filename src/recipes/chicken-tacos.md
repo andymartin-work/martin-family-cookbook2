@@ -10,6 +10,7 @@ servings: 5
 sourceLabel: Gluten Free On A Shoestring
 sourceURL: https://glutenfreeonashoestring.com/gluten-free-tacos-with-chicken/
 ingredients:
+  - FOR THE TACO SEASONING
   - 1 teaspoon chipotle chili pepper or more to taste
   - 1 teaspoon kosher salt
   - 1 teaspoon smoked Spanish paprika
@@ -18,13 +19,16 @@ ingredients:
   - 1 teaspoon ground cumin
   - ½ teaspoon dried oregano
   - 2 tablespoons (18 g) cornstarch
+  - FOR THE CHICKEN
   - 1 ¼ pounds skinless boneless chicken breast
   - "2 tablespoons (28 g) grapeseed oil (alternatives are: canola, vegetable,
     peanut oils)"
+  - FOR THE COLE SLAW
   - 2 tablespoons mayonnaise
   - 1 teaspoon white wine vinegar
   - ⅛ teaspoon kosher salt
   - 4 ounces shredded red cabbage
+  - FOR THE SPICY SOUR CREAM
   - ½ cup (128 g) sour cream
   - 1 tablespoon Sriracha
   - 15 gluten free corn tortillas
