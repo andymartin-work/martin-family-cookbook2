@@ -4,7 +4,7 @@ image: https://glutenfreeonashoestring.com/wp-content/uploads/2020/01/Chicken-ta
 tags:
   - Gluten Free
   - Dinner
-  - Favourite ⭐
+  - Favorite
 time: 30 minutes
 servings: 5
 sourceLabel: Gluten Free On A Shoestring
