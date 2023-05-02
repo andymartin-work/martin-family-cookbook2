@@ -1,6 +1,10 @@
 ---
 title: Apple Cinnamon Toaster Pastries
 image: https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco/https://storage.googleapis.com/gen-atmedia/3/2017/10/b34ece064e3678ac90ab79cfb73b228882a41dd5.jpeg
+tags:
+  - Gluten Free
+time: 45m
+servings: 6
 ingredients:
   - PASTRY
   - 1 1/4 cups all-purpose gluten free flour
