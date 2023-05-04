@@ -4,7 +4,6 @@ image: https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco/https://s
 tags:
   - Gluten Free
   - Breakfast
-  - Favorite
 time: 45m
 servings: 6
 ingredients:
